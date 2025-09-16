@@ -1,2 +1,1 @@
-Incendies Wiki
-Demo del sito per esame
+Incendies Wiki, demo del sito di Simone Mamoli per esame di informatica umanistica
